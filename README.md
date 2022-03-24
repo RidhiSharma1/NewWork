@@ -1,5 +1,2 @@
-# NewWork
-new repository for os prac
-Hello 
-
-Hello broooooooooooooooooooo
+thistuple = ("apple", "banana", "cherry")
+print(thistuple)
